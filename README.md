@@ -1,0 +1,2 @@
+# Seidel
+Algorithm Seidla
